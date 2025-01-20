@@ -10,7 +10,7 @@
         "id": 2,
         "nombre": "Game Boy Classic",
         "precio": 60.00,
-        "imagen": "images/gameboy.jpeg"
+        "imagen": "images/gameboy.png"
       }
     ]
   }
